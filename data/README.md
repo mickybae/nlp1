@@ -3,7 +3,8 @@
 This is a movie review dataset in the Korean language.
 Reviews were scraped from [Naver Movies](http://movie.naver.com/movie/point/af/list.nhn).
 
-The dataset construction is based on the method noted in [Large movie review dataset](http://ai.stanford.edu/~amaas/data/sentiment/) from Maas et al., 2011.
+The dataset construction is based on the method noted in [Large movie review dataset]
+(http://ai.stanford.edu/~amaas/data/sentiment/) from Maas et al., 2011.
 
 
 ## Data description
